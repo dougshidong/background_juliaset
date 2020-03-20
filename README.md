@@ -2,4 +2,5 @@
 
 Pattern generated with the Julia language.
 
-![Image](julia.png?raw=true)
+![Image1](julia.png?raw=true)
+![Image2](julia_dark.jpeg?raw=true)
